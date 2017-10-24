@@ -3,7 +3,7 @@
 [Build Status]: https://travis-ci.org/IRkernel/IRkernel.svg?branch=master
 [Travis]: https://travis-ci.org/IRkernel/IRkernel
 
-For detailed requirements and install instructions see [irkernel.github.io](http://irkernel.github.io/)
+For detailed requirements and install instructions see [irkernel.github.io](http://irkernel.github.io/)   [https://github.com/IRkernel/irkernel.github.io]
 
 ## Requirements
 
